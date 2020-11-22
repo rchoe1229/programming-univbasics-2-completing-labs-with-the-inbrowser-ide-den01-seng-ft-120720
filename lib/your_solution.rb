@@ -1,3 +1,3 @@
 # Write your solution here
-puts "Hello world!"
+puts "Hello World!"
 # This file should output "Hello World!" using a puts statement
